@@ -1,9 +1,9 @@
 [
     {
         "device_id": "54898d79c95863b0",
-        "username": "user1",
-        "password": "pass123",
-        "expirydate": "31-12-2026",
+        "username": "aboly",
+        "password": "testkey",
+        "expirydate": "29-12-2025",
         "Allowoffline": true
     },
     {
